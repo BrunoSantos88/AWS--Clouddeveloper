@@ -10,16 +10,8 @@ O objetivo desse projeto é oferecer um ambiente de aprendizado e experimentaç�
 <img align="center" alt="Rafa-Js" height="300" width="1200" src="https://user-images.githubusercontent.com/91704169/203583345-518579f0-44ca-431c-aa83-3095687134fd.png"/>
 
 ___________________________________________________________________________________________________________________________________________________
-
 💼 Projetos </p>
-Dio Linux experience "Docker Swarm e Cloud AWS" </p>
-💼 https://github.com/BrunoSantos88/bootcamp-linux-dio/issues/2 </p>
 
-Dio Devops carrefour  "Desafio provisionar infra is code, usando o cloud build e Terraform". </p>
-💼 https://github.com/BrunoSantos88/Desafio-Google-Cloud </p>
-
-Dio Devops carrefour "Desafio Otimizar processo de Ci/Cd no GKE" </p>
-💼 https://github.com/BrunoSantos88/Desafio-kuberntes </p>
 
   </div>
   
