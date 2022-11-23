@@ -7,4 +7,4 @@ O objetivo desse projeto é oferecer um ambiente de aprendizado e experimentaç�
 
 <p align="left">
        
-<img align="center" alt="Rafa-Js" height="500" width="500" src="https://user-images.githubusercontent.com/91704169/203583345-518579f0-44ca-431c-aa83-3095687134fd.png"/>   
+<img align="center" alt="Rafa-Js" height="300" width="1200 src="https://user-images.githubusercontent.com/91704169/203583345-518579f0-44ca-431c-aa83-3095687134fd.png"/>   
