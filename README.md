@@ -31,7 +31,7 @@ ________________________________________________________________________________
 💌 Datas
 <p align="left">
        
-<img align="center" alt="Rafa-Js" height="300" width="1200" src="https://user-images.githubusercontent.com/91704169/203583413-6694cf12-2a0e-4563-801a-09c1b7920810.png"/>
+<img align="center" alt="Rafa-Js" height="1200" width="500" src="https://user-images.githubusercontent.com/91704169/203583413-6694cf12-2a0e-4563-801a-09c1b7920810.png"/>
 ___________________________________________________________________________________________________________________________________________________
 💌 Entre em contato comigo :) // contact me ⤵
 </p>
