@@ -12,10 +12,6 @@ O objetivo desse projeto é oferecer um ambiente de aprendizado e experimentaç�
 ___________________________________________________________________________________________________________________________________________________
 💼 Projetos </p>
 
-
-  </div>
-  
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 ___________________________________________________________________________________________________________________________________________________
 💌 Entre em contato comigo :) // contact me ⤵
 </p>
