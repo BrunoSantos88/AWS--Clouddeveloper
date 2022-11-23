@@ -8,6 +8,8 @@ O objetivo desse projeto é oferecer um ambiente de aprendizado e experimentaç�
 <p align="left">
        
 <img align="center" alt="Rafa-Js" height="300" width="1200" src="https://user-images.githubusercontent.com/91704169/203583345-518579f0-44ca-431c-aa83-3095687134fd.png"/>
+
+Link Curso: https://ifpe-pet-facepe-2022.s3.amazonaws.com/banner_pet_cloud_native.png
        
 ___________________________________________________________________________________________________________________________________________________
 💼 Projetos </p>
