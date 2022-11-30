@@ -31,6 +31,8 @@ Tarefa 2 Criar um arquivo HTML
 Arquivo HTML exemplo.
 
 Nesse arquivo, cole as seguintes linhas de HTML:
+
+'''
 <!DOCTYPE html>
 <html>
 <head>
@@ -43,6 +45,7 @@ Nesse arquivo, cole as seguintes linhas de HTML:
     <img alt="this is a picture of a lost cat" src="cat.jpg" /> 
 </body>
 </html>
+'''
 
 Salve o arquivo. Para fazer isso, no menu File (Arquivo), escolha Save As... (Salvar como...). Verifique se a pasta raiz s3-lab está selecionada e salve o arquivo como index.html.
 
