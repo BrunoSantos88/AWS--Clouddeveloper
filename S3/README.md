@@ -5,9 +5,9 @@ Tarefa 1: Preparar o laboratório
 Pegar credencias Lab e criar um arquivo .aws/credential
 
 [dev]
-aws_access_key_id= AcceKey
-aws_secret_access_key=SecretKey
-aws_session_token=Secrettoken
+aws_access_key_id= AcceKey  </p>
+aws_secret_access_key=SecretKey </p>
+aws_session_token=Secrettoken </p>
 
 .aws/config
 
