@@ -12,8 +12,8 @@ aws_session_token=Secrettoken </p>
 .aws/config
 
 [default]
-region = us-east-1
-output = json
+region = us-east-1 </p>
+output = json </p>
 
 para usar no parametro boto3
 exemplo:
@@ -21,10 +21,8 @@ exemplo:
 import boto3 
 session = boto3.session.Session(profile_name='dev')
 
-criar bucket S3 boto3
-
+criar bucket S3
 Python (3.6.8)	https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/s3.html#S3.Client.create_bucket
-
 
 Tarefa 2 Criar um arquivo HTML e fazer upload
 
